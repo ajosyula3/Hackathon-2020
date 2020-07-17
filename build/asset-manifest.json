@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d086b23c.chunk.css",
+    "main.js": "/static/js/main.e9905b91.chunk.js",
+    "main.js.map": "/static/js/main.e9905b91.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f693082c.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f693082c.js.map",
+    "static/js/2.bebdea7b.chunk.js": "/static/js/2.bebdea7b.chunk.js",
+    "static/js/2.bebdea7b.chunk.js.map": "/static/js/2.bebdea7b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.15e4f4e42bb0e86ade68deaf24abe9de.js": "/precache-manifest.15e4f4e42bb0e86ade68deaf24abe9de.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.d086b23c.chunk.css.map": "/static/css/main.d086b23c.chunk.css.map",
+    "static/js/2.bebdea7b.chunk.js.LICENSE.txt": "/static/js/2.bebdea7b.chunk.js.LICENSE.txt",
+    "static/js/main.e9905b91.chunk.js.LICENSE.txt": "/static/js/main.e9905b91.chunk.js.LICENSE.txt",
+    "static/media/Apoorva.png": "/static/media/Apoorva.16499532.png",
+    "static/media/Audrey.JPG": "/static/media/Audrey.fb4cb10a.JPG",
+    "static/media/Charles.png": "/static/media/Charles.d719c862.png",
+    "static/media/Conscience-Consumer-Header.jpeg": "/static/media/Conscience-Consumer-Header.d48d30a8.jpeg",
+    "static/media/Gabrielle.png": "/static/media/Gabrielle.b89d6c92.png",
+    "static/media/Michaela.jpg": "/static/media/Michaela.542fa9be.jpg",
+    "static/media/climateChange.png": "/static/media/climateChange.0799648f.png",
+    "static/media/foodWaste.png": "/static/media/foodWaste.13a02962.png",
+    "static/media/logo.png": "/static/media/logo.18d28219.png",
+    "static/media/logo2.png": "/static/media/logo2.5615e4d9.png",
+    "static/media/paper-kit.scss?v=1.2.0": "/static/media/nucleo-icons.f32ed5ad.eot",
+    "static/media/placeholder.jpg": "/static/media/placeholder.83f3f36d.jpg",
+    "static/media/toothBrush.png": "/static/media/toothBrush.4ed1c21f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f693082c.js",
+    "static/js/2.bebdea7b.chunk.js",
+    "static/css/main.d086b23c.chunk.css",
+    "static/js/main.e9905b91.chunk.js"
+  ]
+}
