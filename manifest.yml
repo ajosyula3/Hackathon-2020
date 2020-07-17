@@ -1,0 +1,5 @@
+---
+applications:
+ - name: Conscious-Consumer
+   random-route: true
+   memory: 256M
